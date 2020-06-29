@@ -1,0 +1,26 @@
+{
+  "name": "apitestingwithsupertest",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000A\u0000p\u0000i\u0000T\u0000e\u0000s\u0000t\u0000i\u0000n\u0000g\u0000W\u0000i\u0000t\u0000h\u0000S\u0000u\u0000p\u0000e\u0000r\u0000t\u0000e\u0000s\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "supertest": "^4.0.2"
+  },
+  "devDependencies": {
+    "jest": "^26.1.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcDumouchel/ApiTestingWithSupertest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcDumouchel/ApiTestingWithSupertest/issues"
+  },
+  "homepage": "https://github.com/MarcDumouchel/ApiTestingWithSupertest#readme"
+}
